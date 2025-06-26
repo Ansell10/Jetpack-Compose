@@ -1,4 +1,4 @@
-# 💵 Jetpack Compose – Aplikasi Hello Android
+# 🚀 Jetpack Compose – Aplikasi Hello Android
 
 Aplikasi ini merupakan contoh sederhana untuk menampilkan teks "Hello Android!" menggunakan Jetpack Compose.
 
